@@ -22,7 +22,7 @@
 - **Machine Learning Models**: Logistic Regression and Random Forest Classifier
 - **Data**: Kaggle datasets (Heart Disease and Diabetes)
 - **Environment Management**: Conda (Miniconda3)
-- **APIs Used**: Foursquare, Serp Api
+- **APIs Used**: OpenCage, Serp Api
 
 ---
 
