@@ -1,6 +1,7 @@
 # Health Compass
 
-**Health Compass** is a web application designed to predict health risks for heart disease and diabetes using machine learning models. The app provides a user-friendly interface for accessing predictions, health insights, and doctor recommendations, combining the power of data science and web technologies.
+Health Compass is a web-based healthcare application that focuses on the early prediction of heart disease and diabetes using machine learning models. The system allows users to input health parameters and receive clear, easy-to-understand risk predictions along with preventive health insights.
+In addition to disease prediction, Health Compass integrates location-based services
 
 ---
 
